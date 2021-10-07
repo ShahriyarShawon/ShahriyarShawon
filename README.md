@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ShahriyarShawon/ShahriyarShawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, welcome to my GitHub
+
+## Some info about me 👇
+- Name: Shahriyar Shawon
+- School: Drexel University 🐉
+- Work/Co-op: SIG (Susquehanna Internation Group) 💵🌎
+
