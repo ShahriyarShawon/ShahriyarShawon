@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ## Some info about me 👇
 - Name: Shahriyar Shawon
 - School: Drexel University 🐉
-- Work/Co-op: SIG (Susquehanna Internation Group) 💵🌎
+- Work/Co-op: SIG (Susquehanna International Group) 💵🌎
 
